@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, seja muito mais do que bem-vindo(a) ao meu perfil! 🙂
 
-<!--
-**guilherme-albuquerque-brasil/guilherme-albuquerque-brasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O meu nome é Guilherme Albuquerque
 
-Here are some ideas to get you started:
+- estou estudando na [Alura](https://www.alura.com.br) através do material digital disponibilizado pelo governo do estado de São Paulo.
+- Busco aprofundar os meus conhecimentos com base na grade curricular do material didático paulista.
+- estou desenvolvendo as minhas habilidades no mundo da computação e pretendo me desenvolver através deste curso.
+- utilizo este espaço para a organização e compartilhamento dos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Pode estar entrando em contato comigo 📫
+00001132093314sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/NY3Rdz-FVBAAAAAC/gif.gif)
